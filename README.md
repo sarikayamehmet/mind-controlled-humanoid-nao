@@ -28,4 +28,4 @@ Mind controlled Humanoid Robot using Brain-Computer Interface
 	- "controllers\nao_mindwave\nao_mindwave.py" script is controller for webots. It reads brainwaves from "controllers\nao_mindwave\data_eeg.csv" file and control Nao robots according to blinks and attention level of subjects.
 
 # 6. Demo
-	![](Nao-demo.gif)
+![Nao-demo](https://github.com/sarikayamehmet/mind-controlled-humanoid-nao/raw/master/Nao-demo.gif)
