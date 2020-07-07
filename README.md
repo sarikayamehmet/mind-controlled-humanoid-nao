@@ -26,3 +26,6 @@ Mind controlled Humanoid Robot using Brain-Computer Interface
 	- "controllers\nao_mindwave" folder includes codes to collect EEG signal and control Nao robot
 	- "controllers\nao_mindwave\nao_mindwave_reader.py" script listens Mindwave default port (13584) and records siqnalQuality, blinkStrength, attention and meditation values into "controllers\nao_mindwave\data_eeg.csv" file.
 	- "controllers\nao_mindwave\nao_mindwave.py" script is controller for webots. It reads brainwaves from "controllers\nao_mindwave\data_eeg.csv" file and control Nao robots according to blinks and attention level of subjects.
+
+# 6. Demo
+	![](Nao-demo.gif)
